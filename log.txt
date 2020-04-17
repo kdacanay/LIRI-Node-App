@@ -1445,3 +1445,546 @@ Artist: Pyrolysis
 Song: The Pilgrim
 Album: Daylight Is Fading
 Preview: https://p.scdn.co/mp3-preview/7580c92c89e9ddf149930863b2b9c85273743764?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Horseshoe Tavern
+Location: Toronto, ON
+Date: 05/21/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Café Campus
+Location: Montreal, QC
+Date: 05/22/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Port City Music Hall
+Location: Portland, ME
+Date: 05/24/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Higher Ground
+Location: South Burlington, VT
+Date: 05/23/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: White Eagle Hall
+Location: Jersey City, NJ
+Date: 05/28/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Grog Shop
+Location: Cleveland, OH
+Date: 05/30/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Iron Horse Music Hall
+Location: Northampton, MA
+Date: 05/26/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: The Warehouse at FTC
+Location: Fairfield, CT
+Date: 05/27/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: THE OLD ROCK HOUSE
+Location: St Louis, MO
+Date: 06/02/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Mr Small's Theatre
+Location: Millvale, PA
+Date: 05/29/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Codfish Hollow Barnstormers
+Location: Maquoketa, IA
+Date: 06/03/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Thalia Hall
+Location: Chicago, IL
+Date: 06/05/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: The Magic Bag 
+Location: Ferndale, MI
+Date: 06/07/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:47
+Artist/Band: nada surf
+Venue: Fine Line Music Cafe
+Location: Minneapolis, MN
+Date: 06/04/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Parking Festival Beauregarf
+Location: Hérouville-saint-clair, 
+Date: 07/05/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: The Pyramid Scheme
+Location: Grand Rapids, MI
+Date: 06/06/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Dynamo
+Location: Zurich, 
+Date: 09/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Festival Musilac
+Location: Aix-les-bains, 
+Date: 07/13/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Santeria Toscana 31
+Location: Milano, 
+Date: 09/11/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Parc Expo
+Location: Tours, 
+Date: 07/04/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Backstage Halle
+Location: Munich, 
+Date: 09/14/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Metropol
+Location: Berlin, 
+Date: 09/16/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Scala Kultur gemeinnützige GmbH
+Location: Ludwigsburg, 
+Date: 09/18/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Botanique
+Location: Bruxelles, 
+Date: 09/19/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Arena Wien
+Location: Wien, 
+Date: 09/15/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Paradiso
+Location: Amsterdam, 
+Date: 09/20/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:20:48
+Artist/Band: nada surf
+Venue: Fabrik
+Location: Hamburg, 
+Date: 09/17/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Pink Floyd
+Song: Wish You Were Here
+Album: Wish You Were Here
+Preview: https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2bf994?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Incubus
+Song: Wish You Were Here
+Album: Morning View
+Preview: https://p.scdn.co/mp3-preview/db50a25ea77c872ac29673633b98fb2273a1a010?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Avril Lavigne
+Song: Wish You Were Here
+Album: Goodbye Lullaby (Expanded Edition)
+Preview: https://p.scdn.co/mp3-preview/3851a3abc4483de07dfada71cd6a9fd261077fcd?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Neck Deep
+Song: Wish You Were Here
+Album: The Peace And The Panic
+Preview: https://p.scdn.co/mp3-preview/110c7bab8aea1a508f165f25170dcac905d69202?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Cody Jinks
+Song: Wish You Were Here
+Album: Wish You Were Here
+Preview: https://p.scdn.co/mp3-preview/f0824eeb22abdbbcf852215d510e33eb720f26dd?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: The Milk Carton Kids
+Song: Wish You Were Here
+Album: Wish You Were Here
+Preview: https://p.scdn.co/mp3-preview/daa83b877fd44de37274de171e97c38bb0379d80?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Avenged Sevenfold
+Song: Wish You Were Here
+Album: The Stage (Deluxe Edition)
+Preview: null
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Alpha Blondy
+Song: Wish You Were Here
+Album: Jah Victory
+Preview: https://p.scdn.co/mp3-preview/79c9e9c569cbf5a5d9c64d600228ea99cc60e3cc?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Ninja Sex Party
+Song: Wish You Were Here
+Album: Under the Covers
+Preview: https://p.scdn.co/mp3-preview/b07286677eef58af85acb180f4f27acab1c58688?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:24:07
+Artist: Mark Wills
+Song: Wish You Were Here
+Album: Wish You Were Here
+Preview: null
+===============New Log====================
+Date/Time: 17-04-2020 2:25:48
+Title: The Princess Bride
+Year: 1987
+IMDB8.1
+Actors:Cary Elwes, Mandy Patinkin, Chris Sarandon, Christopher Guest
+Rotten Tomatoes: 97%
+Country: USA
+Plot: While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+===============New Log====================
+Date/Time: 17-04-2020 2:29:21
+Title: The Shining
+Year: 1980
+IMDB8.4
+Actors:Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers
+Rotten Tomatoes: 85%
+Country: UK, USA
+Plot: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Streaming LIVE
+Location: , 
+Date: 04/18/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Gärdet
+Location: Stockholm, 
+Date: 06/27/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Wiener Stadthalle Halle D
+Location: Vienna, 
+Date: 07/07/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Hyde Park
+Location: London, 
+Date: 07/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Tauron Arena Krakow
+Location: Kraków, 
+Date: 07/13/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Royal Arena
+Location: Copenhagen, 
+Date: 06/29/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Autodromo Enzo e Dino Ferrari - Imola
+Location: Imola, 
+Date: 07/05/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: HIPPODROME DE LONGCHAMP
+Location: Paris 16 Passy, 
+Date: 07/19/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, 
+Date: 07/22/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Festivalpark Werchter
+Location: Werchter, 
+Date: 07/02/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, 
+Date: 07/23/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:12
+Artist/Band: pearl jam
+
+
+
+Venue: Papp Laszlo Arena
+Location: Budapest, 
+Date: 07/15/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Tacoma Dome
+Location: Tacoma, WA
+Date: 05/29/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Rogers Arena
+Location: Vancouver, BC
+Date: 05/31/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: MTS Centre
+Location: Winnipeg, MB
+Date: 06/04/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Rogers Place
+Location: Edmonton, AB
+Date: 06/02/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Denny Sanford Premier Center
+Location: Sioux Falls, SD
+Date: 06/07/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Target Center
+Location: Minneapolis, MN
+Date: 06/06/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Bonnaroo
+Location: Manchester, TN
+Date: 06/12/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: I Wireless Center
+Location: Moline, IL
+Date: 06/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Enterprise Center
+Location: St Louis, MO
+Date: 06/13/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, OK
+Date: 06/17/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Broadmoor World Arena
+Location: Colorado Springs, CO
+Date: 06/19/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Golden 1 Center
+Location: Sacramento, CA
+Date: 06/22/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Chase Center
+Location: San Francisco, CA
+Date: 06/23/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Kohl Center
+Location: Madison, WI
+Date: 06/09/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:31:46
+Artist/Band: tool
+
+
+
+Venue: Intrust Bank Arena
+Location: Wichita, KS
+Date: 06/16/2020
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Mick Jensen
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Tyler and Mark
+Song: I Want It That Way
+Album: Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Anthem Lights
+Song: I Want It That Way / Bye Bye Bye
+Album: I Want It That Way / Bye Bye Bye
+Preview: https://p.scdn.co/mp3-preview/82b2ff786fedce4e1a314d69f15ff5c705049ef5?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:35
+Artist: Dynamite Boy
+Song: I Want It That Way
+Album: Punk Goes Pop
+Preview: null
+===============New Log====================
+Date/Time: 17-04-2020 2:35:36
+Artist: Steel Panther
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: null
+===============New Log====================
+Date/Time: 17-04-2020 2:35:36
+Artist: Ryan Tenner
+Song: I Want It That Way
+Album: Pop Piano Covers
+Preview: https://p.scdn.co/mp3-preview/9c9217848c811676226a09cf721f27f102588521?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:36
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Album: Under the Covers, Vol. 3
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 2:35:36
+Artist: Scary Pockets
+Song: I Want It That Way
+Album: Nu Funk
+Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=f06236a79b5d42bdab289b456b11ff39
