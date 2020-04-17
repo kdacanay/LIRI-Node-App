@@ -1,17 +1,328 @@
-Chase CenterSan Francisco, CA06/23/2020Chase CenterSan Francisco, CA06/23/2020
-New Log: nada surf;Paradiso;Amsterdam, ;09/20/2020
-New Log: tool;Tacoma Dome;Tacoma, WA;05/29/2020
-New Log: tool;Rogers Arena;Vancouver, BC;05/31/2020
-New Log: tool;MTS Centre;Winnipeg, MB;06/04/2020
-New Log: tool;Rogers Place;Edmonton, AB;06/02/2020
-New Log: tool;Denny Sanford Premier Center;Sioux Falls, SD;06/07/2020
-New Log: tool;Bonnaroo;Manchester, TN;06/12/2020
-New Log: tool;I Wireless Center;Moline, IL;06/10/2020
-New Log: tool;Enterprise Center;St Louis, MO;06/13/2020
-New Log: tool;Intrust Bank Arena;Wichita, KS;06/16/2020
-New Log: tool;Chesapeake Energy Arena;Oklahoma City, OK;06/17/2020
-New Log: tool;Kohl Center;Madison, WI;06/09/2020
-New Log: tool;Broadmoor World Arena;Colorado Springs, CO;06/19/2020
-New Log: tool;Chase Center;San Francisco, CA;06/23/2020
-New Log: tool;Target Center;Minneapolis, MN;06/06/2020
-New Log: tool;Golden 1 Center;Sacramento, CA;06/22/2020
+
+===============New Log====================
+Date/Time: 17-04-2020 12:43:39
+Title: Eternal Sunshine of the Spotless Mind
+Year: 2004
+IMDB8.3
+Actors:Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood
+Rotten Tomatoes: 93%
+Country: USA
+Plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+===============New Log====================
+Date/Time: 17-04-2020 12:43:55
+Artist: TOOL
+Song: Pneuma
+Album: Fear Inoculum
+Preview: https://p.scdn.co/mp3-preview/b8a41c0fd9d8e7acde34ae6969f136552196ebed?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Horseshoe Tavern
+Location: Toronto, ON
+Date: 05/21/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Café Campus
+Location: Montreal, QC
+Date: 05/22/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Higher Ground
+Location: South Burlington, VT
+Date: 05/23/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Iron Horse Music Hall
+Location: Northampton, MA
+Date: 05/26/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: White Eagle Hall
+Location: Jersey City, NJ
+Date: 05/28/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: The Warehouse at FTC
+Location: Fairfield, CT
+Date: 05/27/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Mr Small's Theatre
+Location: Millvale, PA
+Date: 05/29/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Grog Shop
+Location: Cleveland, OH
+Date: 05/30/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: THE OLD ROCK HOUSE
+Location: St Louis, MO
+Date: 06/02/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Port City Music Hall
+Location: Portland, ME
+Date: 05/24/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Fine Line Music Cafe
+Location: Minneapolis, MN
+Date: 06/04/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Thalia Hall
+Location: Chicago, IL
+Date: 06/05/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: The Magic Bag 
+Location: Ferndale, MI
+Date: 06/07/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: The Pyramid Scheme
+Location: Grand Rapids, MI
+Date: 06/06/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Parking Festival Beauregarf
+Location: Hérouville-saint-clair, 
+Date: 07/05/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Parc Expo
+Location: Tours, 
+Date: 07/04/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Codfish Hollow Barnstormers
+Location: Maquoketa, IA
+Date: 06/03/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Dynamo
+Location: Zurich, 
+Date: 09/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Santeria Toscana 31
+Location: Milano, 
+Date: 09/11/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Festival Musilac
+Location: Aix-les-bains, 
+Date: 07/13/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Fabrik
+Location: Hamburg, 
+Date: 09/17/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Scala Kultur gemeinnützige GmbH
+Location: Ludwigsburg, 
+Date: 09/18/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Backstage Halle
+Location: Munich, 
+Date: 09/14/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Botanique
+Location: Bruxelles, 
+Date: 09/19/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Paradiso
+Location: Amsterdam, 
+Date: 09/20/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Arena Wien
+Location: Wien, 
+Date: 09/15/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:11
+Artist/Band: nada surf
+Venue: Metropol
+Location: Berlin, 
+Date: 09/16/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:44:46
+Artist: Eagles
+Song: Hotel California - 2013 Remaster
+Album: Hotel California (2013 Remaster)
+Preview: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=f06236a79b5d42bdab289b456b11ff39
+===============New Log====================
+Date/Time: 17-04-2020 12:47:08
+Artist: Counting Crows
+Song: Anna Begins
+Album: August And Everything After
+Preview: null
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Zoo
+Location: Fortitude Valley Qld, 
+Date: 05/01/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Croxton Bandroom
+Location: Melbourne, 
+Date: 05/02/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Meow
+Location: Wellington, 
+Date: 05/09/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Blue Smoke
+Location: Christchurch, 
+Date: 05/11/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Rosemount
+Location: North Perth, 
+Date: 05/03/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Croxton Bandroom
+Location: Melbourne, 
+Date: 05/16/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Cambridge 
+Location: Newcastle West, 
+Date: 05/06/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Banc of California Stadium
+Location: Los Angeles, CA
+Date: 05/22/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: The Zoo
+Location: Fortitude Valley Qld, 
+Date: 05/17/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Banc of California Stadium
+Location: Los Angeles, CA
+Date: 05/23/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Alte Kesselschmiede
+Location: Papenburg, 
+Date: 06/06/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Sputnikhalle
+Location: Münster, 
+Date: 06/07/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Zoom Frankfurt
+Location: Frankfurt Am Main, 
+Date: 06/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Gebäude 9
+Location: Cologne, 
+Date: 06/09/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Universum
+Location: Stuttgart, 
+Date: 06/11/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Barclays Center
+Location: Brooklyn, NY
+Date: 09/03/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Budweiser Stage
+Location: Toronto, ON
+Date: 09/09/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: DTE Energy Music Theatre
+Location: Clarkston, MI
+Date: 09/10/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Cassels Blue Smoke
+Location: Christchurch, 
+Date: 11/17/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Meow
+Location: Wellington, 
+Date: 11/19/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Studio The Venue
+Location: Auckland, 
+Date: 05/08/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Studio The Venue
+Location: Auckland, 
+Date: 11/16/2020
+===============New Log====================
+Date/Time: 17-04-2020 12:47:40
+Artist/Band: helmet
+Venue: Republic Bar Hobart
+Location: North Hobart Tas, 
+Date: 11/04/2020

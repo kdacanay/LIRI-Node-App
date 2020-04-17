@@ -1,4 +1,4 @@
-//------Variables
+//------Variables-------------------------------------------//
 
 require("dotenv").config(); 
 var keys = require("./keys.js");
@@ -88,8 +88,12 @@ function concertThis (userInput) {
                 "\n" + "Date: " + date 
             ); 
             console.log("\n============================================");
-                
-            logText("\nNew Log: " + userInput + "; " + venue + "; " + location + "; " + date);
+
+            //-------used for log.txt---------------------------------//
+            var time = moment().format("DD-MM-YYYY h:mm:ss");
+
+            logText("\n===============New Log====================" + "\nDate/Time: " + time 
+            + "\nArtist/Band: " + userInput + "\nVenue: " + venue + "\nLocation: " + location + "\nDate: " + date); 
         }
         
     });
@@ -130,8 +134,18 @@ function spotifyThisSong(userInput) {
         "\nAlbum Name: " + album +
         "\nPreview Song: " + previewLink
            );
+
         console.log("\n=========================================");
-        })
+        
+        //------used for log.txt---------------------------//
+
+        var time = moment().format("DD-MM-YYYY h:mm:ss");
+
+        logText("\n===============New Log====================" + "\nDate/Time: " + time + 
+        "\nArtist: " + artist + "\nSong: " + song + "\nAlbum: " + album + 
+        "\nPreview: " + previewLink);
+        
+    })
     };
 
 //----------OMDB Function ---------------------------------------//
@@ -175,6 +189,14 @@ function movieThis(userInput) {
                 "\nActors: " + actors 
             );
             console.log("\n=========================================");
+            
+            //------used for log.txt-------------------------------//
+            var time = moment().format("DD-MM-YYYY h:mm:ss");
+
+            logText("\n===============New Log====================" + "\nDate/Time: " + time + 
+            "\nTitle: " + title + "\nYear: " + year + "\nIMDB" + imdb + "\nActors:" 
+            + actors + "\nRotten Tomatoes: " + rotTom + "\nCountry: " + country + "\nPlot: " + plot);
+        
         });
     }
 
@@ -222,11 +244,7 @@ function logText(text) {
 
         if (err) {
             console.log(err);
-        }
-        console.log("\n=========================================");
-        console.log("\nAdded to log.txt");
-        console.log("\n=========================================");
-})
 }
+})
+};
 //-----run logText function in each function to log inputs-----------//
-
