@@ -46,6 +46,11 @@ Using the command line, I navigated to the correct repository and run ```npm ins
     * Location
     * Date
 
+* Input: ```node liri.js concert-this nada surf``` on command line
+* Screenshot Using ```concert-this``` function:
+   
+      * <img src="screenshots/SSConcertBash.png" width=500>
+
 **Spotify-This-Song Function**
 
 <img src="screenshots/SShotSpotifyFunction.png" width=500>
@@ -56,6 +61,30 @@ Using the command line, I navigated to the correct repository and run ```npm ins
     * Song Title
     * Album Name
     * Preview Link
+    
+
+    
+**Movie-This Function**
+
+<img src="screenshots/SShotMovieFunction.png" width=500>
+
+* uses ```axios``` package to retrieve data from *OMDB API*
+* retrieves requested movie input and displays:
+   * Movie Title
+   * Year
+   * IMDB Rating
+   * Rotten Tomatoes Rating
+   * Country
+   * Language
+   * Plot
+   * Actors
+
+**Do-What-It-Says Function**
+
+<img src="screenshots/SShotDoWhatItSaysFunction.png" width=500>
+
+* uses ```fs.readfile``` function to read ```random.txt``` file, where user enters one of three commands, and displays results like so:
+   * <img src="
 
 
 
