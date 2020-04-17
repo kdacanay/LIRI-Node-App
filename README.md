@@ -17,7 +17,7 @@ The LIRI app uses four main commands:
 * ```movie-this``` (searches OMDB API)
 * ```do-what-it-says``` (runs the command and search item in ```random.txt``` file)
 
-Using the command line, I navigated to the correct repository and run ```npm install```, which installs the necessary code packages needed for LIRI.  I also ran ```npm init -y```, which created the ```package.json``` file that is needed for third party npm packages.  There is also 2 text files: ```random.txt``` and ```log.txt```.  The ```liri.js``` file contains the Javascript code. 
+Using the command line, I navigated to the correct repository to run ```npm install```, which installs the necessary code packages needed for LIRI.  I also ran ```npm init -y```, which created the ```package.json``` file that is needed for third party npm packages.  There is also 2 text files: ```random.txt``` and ```log.txt```.  The ```liri.js``` file contains the Javascript code. 
 
 # Liri.js
 
@@ -28,14 +28,14 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 * ```chooseAPI``` variable takes user input for chosen command, which will be 2nd argument in array
 * ```userInput``` variables takes user input for search item, 3rd in array
 
-**Switch-case Statement**
+#### Switch-case Statement
 
 <img src="screenshots/SShotSwitchStatements.png" width=500>
 
 * switch-case statement switches between functions and runs them
 * also runs default searches if ```userInput``` is blank and program is ran
 
-**Concert-This Function** 
+#### Concert-This Function 
 
 <img src="screenshots/SShotConcertThisFunction.png" width=500>
 
@@ -51,7 +51,7 @@ Using the command line, I navigated to the correct repository and run ```npm ins
    
  <img src="screenshots/SSConcertBash.png" width=500>
 
-**Spotify-This-Song Function**
+#### Spotify-This-Song Function
 
 <img src="screenshots/SShotSpotifyFunction.png" width=500>
 
@@ -67,7 +67,7 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 
 <img src="screenshots/SSSpotifyBash.png" width=500>
     
-**Movie-This Function**
+#### Movie-This Function
 
 <img src="screenshots/SShotMovieFunction.png" width=500>
 
@@ -87,7 +87,7 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 
 <img src="screenshots/SSMovieBash.png" width=500>
 
-**Do-What-It-Says Function**
+#### Do-What-It-Says Function
 
 <img src="screenshots/SShotDoWhatItSaysFunction.png" width=500>
 
@@ -119,6 +119,25 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 * Screenshot using "do-what-it-says" function
 
 <img src="screenshots/SSDoWhatItSaysSpotifyBash(1).png" width=500>
+
+#### LogText Function
+
+<img src="screenshots/SShotLogTextFunction.png" width=500>
+
+* used ```fs.appendFile``` to read user's input and appends them to ```log.txt```
+* each time user uses any of four functions, retrieved data is logged to ```log.txt```
+* each log date stamped using ```moment``` package, located within each function:
+
+   * ```var time = moment().format("DD-MM-YYYY h:mm:ss");```
+   
+* Screenshots of data logs:
+
+<img src="screenshots/logtxt1.png" width=500>
+
+<img src="screenshots/logtxt2.png" width=500>
+
+<img src="screenshots/logtxt3.png" width=500>
+
 
 
 
