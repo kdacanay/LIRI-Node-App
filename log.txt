@@ -1,0 +1,17 @@
+Chase CenterSan Francisco, CA06/23/2020Chase CenterSan Francisco, CA06/23/2020
+New Log: nada surf;Paradiso;Amsterdam, ;09/20/2020
+New Log: tool;Tacoma Dome;Tacoma, WA;05/29/2020
+New Log: tool;Rogers Arena;Vancouver, BC;05/31/2020
+New Log: tool;MTS Centre;Winnipeg, MB;06/04/2020
+New Log: tool;Rogers Place;Edmonton, AB;06/02/2020
+New Log: tool;Denny Sanford Premier Center;Sioux Falls, SD;06/07/2020
+New Log: tool;Bonnaroo;Manchester, TN;06/12/2020
+New Log: tool;I Wireless Center;Moline, IL;06/10/2020
+New Log: tool;Enterprise Center;St Louis, MO;06/13/2020
+New Log: tool;Intrust Bank Arena;Wichita, KS;06/16/2020
+New Log: tool;Chesapeake Energy Arena;Oklahoma City, OK;06/17/2020
+New Log: tool;Kohl Center;Madison, WI;06/09/2020
+New Log: tool;Broadmoor World Arena;Colorado Springs, CO;06/19/2020
+New Log: tool;Chase Center;San Francisco, CA;06/23/2020
+New Log: tool;Target Center;Minneapolis, MN;06/06/2020
+New Log: tool;Golden 1 Center;Sacramento, CA;06/22/2020

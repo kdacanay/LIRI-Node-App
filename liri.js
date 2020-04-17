@@ -8,7 +8,7 @@ var spotify = new Spotify(keys.spotify);
 
 
 var axios = require("axios");
-// var fs = require("fs");
+var fs = require("fs");
 var moment = require("moment");
 //------user input variables
 var chooseAPI = process.argv[2];
@@ -32,6 +32,7 @@ switch(chooseAPI) {
             spotifyThisSong(userInput);
             break;
           }
+    
     case "movie-this":
           if (!userInput) {
 
@@ -44,7 +45,12 @@ switch(chooseAPI) {
           movieThis(userInput);
           break;
           } 
-};
+    
+    case "do-what-it-says":
+          doWhatItSays();
+          
+          break;      
+    };
 
 //-----Bands in Town Search Function----------------////
 //-----Axios and Bands In Town----------------------////
@@ -73,8 +79,8 @@ function concertThis (userInput) {
             var venue = response.data[i].venue.name;
             var location = response.data[i].venue.city + ", " + response.data[i].venue.region;
             var date = moment(response.data[i].datetime).format("MM/DD/YYYY");
-        
-            //---use \n to seperate results into readable lines---------------//
+            
+             //---use \n to seperate results into readable lines---------------//
             console.log(
                 "\n" + "Artist/Band: " + userInput + 
                 "\n" + "Venue: " + venue +
@@ -82,8 +88,12 @@ function concertThis (userInput) {
                 "\n" + "Date: " + date 
             ); 
             console.log("\n============================================");
+                
+            logText("\nNew Log: " + userInput + "; " + venue + "; " + location + "; " + date);
         }
+        
     });
+  
 }
 
 //----------Spotify Function -----------------------------//
@@ -167,3 +177,56 @@ function movieThis(userInput) {
             console.log("\n=========================================");
         });
     }
+
+//-----------Do What It Says Function------------------//
+//-----------use fs node package to use random.txt file---------//
+//-----------to call one of the LIRI commands--------------------//
+
+function doWhatItSays () {
+
+        fs.readFile("random.txt", "utf8", function (error, data) {
+
+            if (error) {
+                return console.log(error);
+            }
+            console.log("\n=========================================");
+
+            console.log(data);
+
+            var dataArray = data.split(",");
+            var dataChoose = dataArray[0];
+            var dataInput = dataArray[1];
+
+            if (dataChoose === "spotify-this-song") {
+                spotifyThisSong(dataInput);
+            }
+            else if (dataChoose === "movie-this") {
+                movieThis(dataInput);
+            }
+            else if (dataChoose === "concert-this") {
+                concertThis(dataInput);
+            }
+            else {
+                console.log("There has been an error. Please try again.")
+            }
+         })
+}
+
+//-----------Log.txt Functions-----------------------------------//
+//---------output the data to a .txt file called log.txt----------//
+//----------do not overwrite your file each time command is ran--------//
+
+function logText(text) {
+
+        fs.appendFile("log.txt", text, function(err) {
+
+        if (err) {
+            console.log(err);
+        }
+        console.log("\n=========================================");
+        console.log("\nAdded to log.txt");
+        console.log("\n=========================================");
+})
+}
+//-----run logText function in each function to log inputs-----------//
+
