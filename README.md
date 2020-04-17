@@ -33,6 +33,30 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 <img src="screenshots/SShotSwitchStatements.png" width=500>
 
 * switch-case statement switches between functions and runs them
+* also runs default searches if ```userInput``` is blank and program is ran
+
+**Concert-This Function** 
+
+<img src="screenshots/SShotConcertThisFunction.png" width=500>
+
+* uses ```axios``` package to retrieve data from *Bands in Town API*
+* for loop to loop through response, retrieves requested artist/band input and displays:
+    * Artist/Band
+    * Venue
+    * Location
+    * Date
+
+**Spotify-This-Song Function**
+
+<img src="screenshots/SShotSpotifyFunction.png" width=500>
+
+* searches *track* information from *Spotify API*, limited to 10 results
+* retrieves requested song title input and displays:
+    * Artist/Band
+    * Song Title
+    * Album Name
+    * Preview Link
+
 
 
 
