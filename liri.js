@@ -2,10 +2,10 @@
 
 require("dotenv").config(); 
 var keys = require("./keys.js");
+
 //----node Spotify package to retrieve song information-------//
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
-
 
 var axios = require("axios");
 var fs = require("fs");
@@ -111,18 +111,18 @@ function spotifyThisSong(userInput) {
 
             type: "track",
             query: userInput,
-            limit: 20
+            limit: 10
 
     }, function (err, response) {
 
         if (err) {
             return console.log("Error has occurred" + err);
         }
-       
-        var artist = response.tracks.items[0].album.artists[0].name;
-        var song = response.tracks.items[0].name;
-        var album = response.tracks.items[0].album.name;
-        var previewLink = response.tracks.items[0].preview_url;
+        for (var i=0; i<response.tracks.items.length; i++) {
+        var artist = response.tracks.items[i].artists[0].name;
+        var song = response.tracks.items[i].name;
+        var album = response.tracks.items[i].album.name;
+        var previewLink = response.tracks.items[i].preview_url;
 
         console.log("\nHere are your results of the song your requested...");
         
@@ -144,7 +144,7 @@ function spotifyThisSong(userInput) {
         logText("\n===============New Log====================" + "\nDate/Time: " + time + 
         "\nArtist: " + artist + "\nSong: " + song + "\nAlbum: " + album + 
         "\nPreview: " + previewLink);
-        
+        }  
     })
     };
 
