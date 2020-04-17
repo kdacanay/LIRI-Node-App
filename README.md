@@ -21,9 +21,23 @@ Using the command line, I navigated to the correct repository and run ```npm ins
 
 # Liri.js
 
-The variables created :
+**Variables**
 
 <img src="screenshots/SShotVariables.png" width = 500>
+
+* ```chooseAPI``` variable takes user input for chosen command, which will be 2nd argument in array
+* ```userInput``` variables takes user input for search item, 3rd in array
+
+**Switch-case Statement**
+
+<img src="screenshots/SShotSwitchStatements.png" width=500>
+
+* switch-case statement switches between functions and runs them
+
+
+
+
+
 
 
 
