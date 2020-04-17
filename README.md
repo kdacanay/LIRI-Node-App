@@ -46,10 +46,10 @@ Using the command line, I navigated to the correct repository and run ```npm ins
     * Location
     * Date
 
-* Input: ```node liri.js concert-this nada surf``` on command line
+* Input: ```node liri.js concert-this {name of band/artist}``` on command line
 * Screenshot Using ```concert-this``` function:
    
-      * <img src="screenshots/SSConcertBash.png" width=500>
+ <img src="screenshots/SSConcertBash.png" width=500>
 
 **Spotify-This-Song Function**
 
@@ -62,7 +62,10 @@ Using the command line, I navigated to the correct repository and run ```npm ins
     * Album Name
     * Preview Link
     
+* Input: ```node liri.js spotify-this-song {title of song}``` on command line
+* Screenshot using ```spotify-this-song``` function:
 
+<img src="screenshots/SSSpotifyBash.png" width=500>
     
 **Movie-This Function**
 
@@ -78,13 +81,46 @@ Using the command line, I navigated to the correct repository and run ```npm ins
    * Language
    * Plot
    * Actors
+ 
+* Input: ```node liri.js movie-this {movie title}``` on command line
+* Screenshot using ```movie-this``` function:
+
+<img src="screenshots/SSMovieBash.png" width=500>
 
 **Do-What-It-Says Function**
 
 <img src="screenshots/SShotDoWhatItSaysFunction.png" width=500>
 
-* uses ```fs.readfile``` function to read ```random.txt``` file, where user enters one of three commands, and displays results like so:
-   * <img src="
+* uses ```fs.readfile``` function to read ```random.txt``` file, where user enters one of three commands, and displays results:
+
+* ```concert-this```
+
+<img src="screenshots/SSDoWhatItSaysConcert.png" width=500>
+
+* Input: ```node liri.js do-what-it-says``` on command line
+* Screenshot using "do-what-it-says" function
+
+<img src="screenshots/SSDoWhatItSaysConcert(1).png" width=500>
+
+* ```movie-this```
+
+<img src="screenshots/SSDoWhatItSaysMovie.png" width=500>
+
+* Input: ```node liri.js do-what-it-says``` on command line
+* Screenshot using "do-what-it-says" function
+
+<img src="screenshots/SSDoWhatItSaysMovie(1).png" width=500>
+
+* ```spotify-this-song```
+
+<img src="screenshots/SSDoWhatItSaysSpotifyBash.png" width=500>
+
+* Input: ```node liri.js do-what-it-says``` on command line
+* Screenshot using "do-what-it-says" function
+
+<img src="screenshots/SSDoWhatItSaysSpotifyBash(1).png" width=500>
+
+
 
 
 
